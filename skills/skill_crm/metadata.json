@@ -1,0 +1,8 @@
+{
+  "skillId": "skill_crm",
+  "version": "0.1.0",
+  "title": "skill_crm",
+  "description": "",
+  "entry": "bin/skill_crm.sh",
+  "tags": []
+}
