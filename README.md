@@ -30,3 +30,7 @@ nexiuslabs-skill-library/
 1. Create `skills/<skill_id>/`
 2. Add `SKILL.md`, `metadata.json`
 3. Implement entry script in `bin/`
+
+## Git Author
+
+Commits in this repo are authored as `henry@nexiuslabs.com`.
