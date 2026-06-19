@@ -1,10 +1,10 @@
 # nexiuslabs-skill-library
 
-A monorepo for NexiusLabs agent skills and optional role→skill mappings.
+A monorepo for NexiusLabs agent skills.
 
 ## Layout
 
-```
+```text
 nexiuslabs-skill-library/
   skills/
     <skill_id>/
@@ -13,9 +13,6 @@ nexiuslabs-skill-library/
       bin/
       assets/
       templates/
-  roles/
-    role_sales.json
-    role_support.json
   README.md
 ```
 
@@ -23,7 +20,6 @@ nexiuslabs-skill-library/
 
 - `skills/<skill_id>/` folder name must match the skill id.
 - Every skill includes a `SKILL.md` and (recommended) `metadata.json`.
-- `roles/` contains repo-side mapping files for reference.
 
 ## Adding a new skill
 
