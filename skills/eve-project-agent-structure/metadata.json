@@ -1,0 +1,20 @@
+{
+  "id": "eve-project-agent-structure",
+  "display_name": "Eve Project Agent Structure",
+  "short_description": "Scaffold Eve-style agent folder contracts.",
+  "description": "Create Eve-inspired filesystem-first agent folder contracts for new Codex projects without installing the Eve runtime.",
+  "version": "0.1.0",
+  "type": "codex-skill",
+  "entrypoint": "scripts/create_eve_agent_structure.py",
+  "references": [
+    "references/eve-filesystem-layout.md",
+    "https://github.com/vercel/eve"
+  ],
+  "tags": [
+    "codex",
+    "skills",
+    "vercel-eve",
+    "agent-as-directory",
+    "project-scaffold"
+  ]
+}
