@@ -1,8 +1,0 @@
-{
-  "skillId": "skill_helpdesk",
-  "version": "0.1.0",
-  "title": "skill_helpdesk",
-  "description": "",
-  "entry": "bin/skill_helpdesk.sh",
-  "tags": []
-}
